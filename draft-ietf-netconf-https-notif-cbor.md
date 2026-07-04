@@ -28,27 +28,27 @@ author:
   - name: Bharadwaja Meherrushi Chittapragada
     email: meherrushi2@gmail.com
     ins: B. M. Chittapragada
-    org: National Institute of Technology Karnataka, Surathkal
+    org: National Institute of Technology Karnataka
 
   - name: Siddharth Bhat
     email: siddharth.bhat10@gmail.com
     ins: S. Bhat
-    org: National Institute of Technology Karnataka, Surathkal
+    org: National Institute of Technology Karnataka
 
   - name: Vartika T Rao
     email: vartikatrao@gmail.com
     ins: V. T. Rao
-    org: National Institute of Technology Karnataka, Surathkal
+    org: National Institute of Technology Karnataka
 
   - name: Hayyan Arshad
     email: hayyanhamnah@gmail.com
     ins: H. Arshad
-    org: National Institute of Technology Karnataka, Surathkal
+    org: National Institute of Technology Karnataka
 
   - name: Mohit P. Tahiliani
     email: tahiliani@nitk.edu.in
     ins: M. P. Tahiliani
-    org: National Institute of Technology Karnataka, Surathkal
+    org: National Institute of Technology Karnataka
 
 normative:
  I-D.draft-ietf-netconf-https-notif:
@@ -354,7 +354,7 @@ This section records the status of known implementations of the specification de
 
 ## Implementation: HTTPS Notification CBOR Draft Implementation
 - *Organization*:
-  National Institute of Technology Karnataka (NITK), Surathkal
+  National Institute of Technology Karnataka
 
 - *Implementation Name / Web Page*:
   HTTPS Notification CBOR Draft Implementation
